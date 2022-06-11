@@ -17,7 +17,7 @@ My professional approach is ***Behavioral Cognitive*** and the Development of **
 ```js
 const HirepanDev = {
     code: ['Javascript','HTML', 'CSS', 'Python'],
-    tools: ['Node', 'Azure', 'Prisma', 'MySQL', 'PostgreSQL', 'Angular', 'Jest', 'Wordpress'],
+    tools: ['Node', 'Azure', 'Prisma', 'MySQL', 'PostgreSQL', 'Angular', 'Jest', 'Wordpress', 'Git'],
     areas: ['Backend-WebDev', 'Telegram ChatBot', 'E-Commerce Deployment'],
     certifications: ['Azure AZ-900'],
     english: true
