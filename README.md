@@ -33,10 +33,14 @@ const HirepanDev = {
   - Japanese
   
 ### Preferred Technologies
-  <img align="center" src="https://user-images.githubusercontent.com/83685937/173171597-22c5c16b-933a-4302-86f5-915ac963bc34.png" alt="NodeJS" height="70" width="60" /> | <img align="center" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma ORM" height="40" width="40" /> | <img align="center" src="https://user-images.githubusercontent.com/83685937/173172026-2b766549-aab4-4416-8ca2-50f87a5cd1ca.png" alt="Azure" height="40" width="40" /> | <img align="center" src="https://user-images.githubusercontent.com/83685937/173172096-4aa95683-d2ea-4940-9ab3-67f5369c1065.png" alt="PostgreSQL" height="40" width="40" /> | <img align="center" src="https://user-images.githubusercontent.com/83685937/173172123-0f7057fb-cc8a-4d5d-b24f-5513c8ed736c.png" alt="Wordpress" height="40" width="40" />
+ <a href="https://nodejs.org/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173171597-22c5c16b-933a-4302-86f5-915ac963bc34.png" alt="NodeJS" height="70" width="60" /><a/>| 
+ <a href="https://www.prisma.io/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma ORM" height="40" width="40" /><a/> | 
+ <a href="https://azure.microsoft.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172026-2b766549-aab4-4416-8ca2-50f87a5cd1ca.png" alt="Azure" height="40" width="40" /><a/>| 
+ <a href="https://www.postgresql.org/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172096-4aa95683-d2ea-4940-9ab3-67f5369c1065.png" alt="PostgreSQL" height="40" width="40" /><a/> | 
+ <a href="https://wordpress.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172123-0f7057fb-cc8a-4d5d-b24f-5513c8ed736c.png" alt="Wordpress" height="40" width="40" /><a/>
 
 ----
 I consider myself an entrepreneur, I have some bunch of projects waiting be materialized , that's the reason behind all skills I'm learning. I'm a proactive person often searching for solutions with active participations when is required and working comfortably-efficently on a team.
   
-- Go for it !!  --  Make it Happen ✨✨✨
+- Go for it !!  --  Make it Happen :) ✨✨✨
   
