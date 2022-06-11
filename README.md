@@ -32,7 +32,7 @@ const HirepanDev = {
   - Japanese
   
 ### Preferred Technologies
- <a href="https://nodejs.org/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173199406-cc39d819-ea7f-413e-a240-8ec1e32ebc95.png" alt="NodeJS" height="36" width="64" /><a/> | 
+ <a href="https://nodejs.org/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173199794-a5fa778b-81d8-4c1d-972e-3ab4dd1e3307.png" alt="NodeJS" height="40" width="64" /><a/> | 
  <a href="https://www.prisma.io/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma ORM" height="40" width="40" /><a/> | 
  <a href="https://azure.microsoft.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172026-2b766549-aab4-4416-8ca2-50f87a5cd1ca.png" alt="Azure" height="40" width="40" /><a/>| 
  <a href="https://www.postgresql.org/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172096-4aa95683-d2ea-4940-9ab3-67f5369c1065.png" alt="PostgreSQL" height="40" width="40" /><a/> | 
