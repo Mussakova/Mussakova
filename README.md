@@ -1,23 +1,23 @@
 <h1 align="center">Hirepan Aldair <a href="https://t.me/mussakovadev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="Telegram Contact" height="40" width="40" /><a/> </h1>
   
-<h3 align="center"> He/him 	:smile: | Software Developer 💻 | Psychologist 𝛹 | Mexican 🇲🇽 </h3>
+<h3 align="center"> He/him 	:smile: | Psychologist 𝛹 | Software Developer 💻</h3>
   
 ## - Hi everyone !! :raised_hand_with_fingers_splayed:.
   
   ### _On Psychology_
 
   I studied a Bachelor's Degree at `UMSNH`, actually Graduand. Currently working freelance on _Vocational Counseling_ for highschool students based on psychometric tests and online interviews.
-My professional approach is ***Behavioral Cognitive*** and the Development of ***Solving Problems Skills***.
+My professional approach is ***Behavioral Cognitive*** and the development of ***Solving Problems Skills***.
  
   ### _Other Technologies_
  
-  I have notions about _Serch Engine Optimization_, _Marketing Segmentation_ on Facebook Ads, Building fast _E-commerce sites_ on Wordpress deployables on Azure Cloud hosting for small stores and Business landing pages.
+  I have notions about _Serch Engine Optimization_, _Marketing Segmentation_ on Facebook Ads, building fast _E-commerce sites_ on Wordpress deployables on Azure Cloud hosting for small stores and business landing pages.
   
 ### Me into coding:
 ```js
 const HirepanDev = {
     code: ['Javascript','HTML', 'CSS', 'Python'],
-    tools: ['Node', 'Azure', 'Prisma', 'MySQL', 'PostgreSQL', 'Angular', 'Jest', 'Wordpress', 'Git'],
+    tools: ['Node', 'Azure', 'Prisma', 'MySQL', 'PostgreSQL', 'Jest', 'Wordpress', 'Unix', 'Git'],
     areas: ['Backend-WebDev', 'Telegram ChatBot', 'E-Commerce Deployment'],
     certifications: ['Azure AZ-900'],
     english: true
@@ -28,8 +28,7 @@ const HirepanDev = {
   - Google Ads, Google Search Console, Google Analytics, Google My Business, SEO Auditory (Href, Screaming Frog...).
   - API Whatsapp Buiseness (ChatBot)
   - Comunity Managment
-  - MongoDB
-  - Keep improving the actual skills
+  - MongoDB, React
   - Japanese
   
 ### Preferred Technologies
