@@ -39,7 +39,7 @@ const HirepanDev = {
  <a href="https://wordpress.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172123-0f7057fb-cc8a-4d5d-b24f-5513c8ed736c.png" alt="Wordpress" height="40" width="40" /><a/>
 
 ----
-I consider myself an entrepreneur, I have some bunch of projects waiting be materialized , that's the reason behind all skills I'm learning. I'm a proactive person often searching for solutions with active participations when is required and working comfortably-efficently on a team.
+I have some bunch of projects waiting be materialized , that's the reason behind all skills I'm learning. I'm a proactive person often searching for solutions with active participations when is required and working comfortably-efficently on a team.
   
 - Go for it !!  --  Make it Happen :) ✨✨✨
    
