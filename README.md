@@ -39,9 +39,13 @@ const HirepanDev = {
  <a href="https://wordpress.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172123-0f7057fb-cc8a-4d5d-b24f-5513c8ed736c.png" alt="Wordpress" height="40" width="40" /><a/>
 
 ----
-I have some bunch of projects waiting be materialized , that's the reason behind all skills I'm learning. I'm a proactive person often searching for solutions with active participations when is required and working comfortably-efficently on a team.
-  
-- Go for it !!  --  Make it Happen :) ✨✨✨
+<a href="https://www.linkedin.com/in/mussakova/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/83685937/174687523-ade6f19f-7eb1-48d3-88fc-1acfb04859cd.png" alt="LinkedIn" height="40" width="40" /><a/>
+  I have some bunch of projects waiting be materialized , that's the reason behind all skills I'm learning. I'm a proactive person often searching for solutions with active participations when is required and working comfortably-efficently on a team.
+
    
+
+
+- Go for it !!  --  Make it Happen :) ✨✨✨
+
    
 <p align="right" >Thank You for Visiting !! Have a Good Day/Night</p>
