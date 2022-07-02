@@ -11,13 +11,13 @@ My professional approach is ***Behavioral Cognitive*** and the development of **
  
   ### _Other Technologies_
  
-  I have notions about _Serch Engine Optimization_, _Marketing Segmentation_ on Facebook Ads, building fast _E-commerce sites_ on Wordpress deployables on Azure Cloud hosting for small stores and business landing pages.
+  I have notions about _Serch Engine Optimization_, _Marketing Segmentation_ on Facebook Ads and Google Ads, and building small custom sites, blogs or landing pages hosted on Azure Cloud.
   
 ### Me into coding:
 ```js
 const HirepanDev = {
     code: ['Javascript','HTML', 'CSS', 'Python'],
-    tools: ['Node', 'Azure', 'Prisma', 'MySQL', 'PostgreSQL', 'Jest', 'Wordpress', 'Unix/Bash', 'Git', 'Postman'],
+    tools: ['Node', 'Azure', 'Prisma', 'MySQL', 'PostgreSQL', 'Jest', 'Unix/Bash', 'Git', 'Postman'],
     areas: ['Backend-WebDev', 'Telegram ChatBot', 'E-Commerce Deployment'],
     certifications: ['Azure AZ-900'],
     english: true
@@ -28,7 +28,7 @@ const HirepanDev = {
   - Google Ads, Google Search Console, Google Analytics, Google My Business, SEO Auditory (Href, Screaming Frog...).
   - API Whatsapp Buiseness (ChatBot)
   - Comunity Managment
-  - MongoDB, React
+  - MongoDB, React, NextJs
   - Japanese
   
 ### Preferred Technologies
@@ -36,7 +36,6 @@ const HirepanDev = {
  <a href="https://www.prisma.io/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma ORM" height="40" width="40" /><a/> | 
  <a href="https://azure.microsoft.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172026-2b766549-aab4-4416-8ca2-50f87a5cd1ca.png" alt="Azure" height="40" width="40" /><a/>| 
  <a href="https://www.postgresql.org/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172096-4aa95683-d2ea-4940-9ab3-67f5369c1065.png" alt="PostgreSQL" height="40" width="40" /><a/> | 
- <a href="https://wordpress.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172123-0f7057fb-cc8a-4d5d-b24f-5513c8ed736c.png" alt="Wordpress" height="40" width="40" /><a/>
 
 ----
 <a href="https://www.linkedin.com/in/mussakova/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/83685937/174687523-ade6f19f-7eb1-48d3-88fc-1acfb04859cd.png" alt="LinkedIn" height="40" width="40" /><a/>
