@@ -33,7 +33,7 @@ const HirepanDev = {
  <a href="https://www.prisma.io/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma ORM" height="40" width="40" /><a/> | 
  <a href="https://azure.microsoft.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172026-2b766549-aab4-4416-8ca2-50f87a5cd1ca.png" alt="Azure" height="40" width="40" /><a/>| 
  <a href="https://www.postgresql.org/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/173172096-4aa95683-d2ea-4940-9ab3-67f5369c1065.png" alt="PostgreSQL" height="40" width="40" /><a/> | 
- <a href="https://nextjs.org/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/193473334-77fcb152-e62f-4a0b-a40f-40e43ee98d5f.png" alt="NextJs" height="40" width="80" /><a/> 
+ <a href="https://nextjs.org/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83685937/193473334-77fcb152-e62f-4a0b-a40f-40e43ee98d5f.png" alt="NextJs" height="40" width="120" /><a/> 
  
 
 ----
