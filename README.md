@@ -20,7 +20,7 @@ const HirepanDev = {
 }
 ```
 ### Learning:
-  - Informatic Security
+  - Cyber Security
   - Google Ads, Google Search Console, Google Analytics, Google My Business, SEO Auditory (Href, Screaming Frog...).
   - API Whatsapp Buiseness (ChatBot)
   - Comunity Managment
